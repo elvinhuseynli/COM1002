@@ -1,0 +1,6 @@
+10 15
+RGBYRGBY
+end
+5 7
+R 3 -5
+q

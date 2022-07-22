@@ -1,0 +1,6 @@
+john AB+
+maria 0+
+jack 0-
+andrea B-
+ladybug 0+
+neill A+

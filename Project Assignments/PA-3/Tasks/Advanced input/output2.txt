@@ -1,0 +1,82 @@
+|~~~~~~|
+|RBY YY|
+|RYY YR|
+|      |
+|      |
+|   _  |
+
+You got 100 points. Score: 100
+|~~~~~~|
+|RB   Y|
+|RY   R|
+|      |
+|      |
+|   _  |
+
+|~~~~~~|
+|RBY  Y|
+|RY   R|
+|      |
+|      |
+|   _  |
+
+|~~~~~~|
+|RBYY Y|
+|RY   R|
+|      |
+|      |
+|   _  |
+
+You got 40 points. Score: 140
+|~~~~~~|
+|RB   Y|
+|R    R|
+|      |
+|      |
+|   _  |
+
+|~~~~~~|
+|RB   Y|
+|R    R|
+|     R|
+|      |
+|   _  |
+
+|~~~~~~|
+|RB   Y|
+|R    R|
+|     R|
+|     R|
+|   _  |
+
+You got 30 points. Score: 170
+|~~~~~~|
+| B   Y|
+|     R|
+|     R|
+|     R|
+|   _  |
+
+|~~~~~~|
+| BB  Y|
+|     R|
+|     R|
+|     R|
+|   _  |
+
+|~~~~~~|
+| BBB Y|
+|     R|
+|     R|
+|     R|
+|   _  |
+
+You got 40 points. Score: 210
+|~~~~~~|
+|     Y|
+|     R|
+|     R|
+|     R|
+|   _  |
+
+Game is over. Your score is 210!

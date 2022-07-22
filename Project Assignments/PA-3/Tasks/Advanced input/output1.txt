@@ -1,0 +1,38 @@
+|~~~~~~|
+|RBY YY|
+|RYY YR|
+|      |
+|      |
+|   _  |
+
+You got 100 points. Score: 100
+|~~~~~~|
+|RB   Y|
+|RY   R|
+|      |
+|      |
+|   _  |
+
+|~~~~~~|
+|RBY  Y|
+|RY   R|
+|      |
+|      |
+|   _  |
+
+|~~~~~~|
+|RBYY Y|
+|RY   R|
+|      |
+|      |
+|   _  |
+
+You got 40 points. Score: 140
+|~~~~~~|
+|RB   Y|
+|R    R|
+|      |
+|      |
+|   _  |
+
+Game is over. Your score is 140!

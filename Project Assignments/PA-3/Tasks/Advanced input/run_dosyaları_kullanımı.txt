@@ -1,0 +1,5 @@
+1- Dosyaları klasöre çıkartın.
+2- Windowsta "run.bat" çalıştırın.
+   Ubuntuda o klasörde terminali açıp "sh run.sh" yazın.
+3- C dosyasının adını girin. (.c uzantısı olmadan)
+4- Toplam input sayısını girin.
